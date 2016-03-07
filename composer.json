@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
 	"psr-4": {
-	    "Aprillins\\Spintax\\": "src"
+	    "Aprillins\\Spintax\\": "src/"
 	} 
     }
 }
