@@ -1,5 +1,5 @@
 {
-    "name": "aprillins/spintax",
+    "name": "ciedooy/spintax",
     "description": "An inspired PHP words spinner package based on Jason Davis Spintax. The purpose of this package is to make it avis to make it available on Packagist and compatible with latest Laravel PHP Framework release.",
     "authors": [
         {
